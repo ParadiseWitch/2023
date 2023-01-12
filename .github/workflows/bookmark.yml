@@ -6,8 +6,8 @@ on:
     types: [created, edited, deleted]
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: ParadiseWitch
+  GITHUB_EMAIL: zhp92@outlook.com
   BOOKMARK_ISSUE_ID: 21
 
 jobs:
