@@ -50,8 +50,8 @@ jobs:
           git config --global --add safe.directory /github/workspace
       - name: Push README
         run: |
-          git config --local user.name yihong0618
-          git config --local user.email zouzou0208@gmail.com
+          git config --local user.name ParadiseWitch
+          git config --local user.email zhp92@outlook.com
           git add .
           git commit -m "generated readme" || echo "no need to commit "
           git push || echo "no file change"
