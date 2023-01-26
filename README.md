@@ -161,5 +161,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [okr1(20): 瘦10斤](https://github.com/ParadiseWitch/gitblog/issues/2) | 2023-01-13 | 2023-01-13 | 0 | 
+| [2023 OKR](https://github.com/ParadiseWitch/gitblog/issues/1) | 2023-01-12 | 2023-01-14 | 0 | 
 
 <!--END_SECTION:my_blog-->
