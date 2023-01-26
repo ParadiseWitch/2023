@@ -40,7 +40,7 @@ SQUAT_LABEL_LIST = [
     "Squat",
 ]
 
-MY_BLOG_REPO = "yihong0618/gitblog"
+MY_BLOG_REPO = "ParadiseWitch/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
