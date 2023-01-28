@@ -7,13 +7,9 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/yihong0618/2023/issues/1) | 2 (周) | 0 | NO |
+| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 2 (周) | 0 | NO |
 
 <!--END_SECTION:my_number-->
-
-## 跑步
-
-![](https://github.com/yihong0618/run/blob/master/assets/github_2023.svg)
 
 ## 我的 GitHub
 <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true&theme=radical" />
