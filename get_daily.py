@@ -69,18 +69,18 @@ def main(
         )
         # change the issue body for month summary
         unit = value_dict.get("unit_str", "")
-        for i in issues:
-            body = ""
-            # FIXME
-            for b in i.body.splitlines():
-                # from the summary table
-                if b.startswith("|"):
-                    break
-                body += b
-            body = body + "\r\n" + \
-                make_month_summary_str(month_summary_dict, unit)
-            # edit this issue body
-            i.edit(body=body)
+        # for i in issues:
+        #     body = ""
+        #     # FIXME
+        #     for b in i.body.splitlines():
+        #         # from the summary table
+        #         if b.startswith("|"):
+        #             break
+        #         body += b
+        #     body = body + "\r\n" + \
+        #         make_month_summary_str(month_summary_dict, unit)
+        #     # edit this issue body
+        #     i.edit(body=body)
         name = f"[{name}]({url})"
         total_data_str = str(total_data) + unit
         my_num_stat_str += make_stat_str(name,
