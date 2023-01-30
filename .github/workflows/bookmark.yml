@@ -8,7 +8,7 @@ on:
 env:
   GITHUB_NAME: ParadiseWitch
   GITHUB_EMAIL: zhp92@outlook.com
-  BOOKMARK_ISSUE_ID: 21
+  BOOKMARK_ISSUE_ID: 1
 
 jobs:
   sync:
@@ -36,7 +36,7 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
-      
+
       - name: Bookmark
         run: |
           source venv/bin/activate

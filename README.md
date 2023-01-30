@@ -5,9 +5,9 @@ ELPSYCONGROO.
 ## 我的数字
 
 <!--START_SECTION:my_number-->
-| Name | Status | Streak | Today? | 
- | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 1 (周) | 1 | NO |
+| Name                                                   | Status | Streak | Today? |
+| ------------------------------------------------------ | ------ | ------ | ------ |
+| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 1 (周) | 1      | NO     |
 
 <!--END_SECTION:my_number-->
 
@@ -19,10 +19,10 @@ ELPSYCONGROO.
 ## 读书
 
 <!--START_SECTION:my_read-->
-| Name                       | Tags | Status | Start | Update |
-| -------------------------- | ---- | ------ | ----- | ------ |
-| 《深入理解计算机系统》     |      | TODO   |       |        |
-| 《数据密集型应用系统设计》 |      | TODO   |       |        |
+| Name                                                                     | Tags | Status | Start | Update |
+| ------------------------------------------------------------------------ | ---- | ------ | ----- | ------ |
+| 《深入理解计算机系统》                                                   |      | TODO   |       |        |
+| [《数据密集型应用系统设计》](https://vonng.gitbooks.io/ddia-cn/content/) |      | TODO   |       |        |
 <!--END_SECTION:my_read-->
 
 
@@ -58,8 +58,8 @@ ELPSYCONGROO.
 
 ## 写博客
 <!--START_SECTION:my_blog-->
-| Name | Start | Update | Comments | 
- | ---- | ---- | ---- | ---- |
-| [2023 OKR](https://github.com/ParadiseWitch/gitblog/issues/1) | 2023-01-12 | 2023-01-14 | 0 | 
+| Name                                                          | Start      | Update     | Comments |
+| ------------------------------------------------------------- | ---------- | ---------- | -------- |
+| [2023 OKR](https://github.com/ParadiseWitch/gitblog/issues/1) | 2023-01-12 | 2023-01-14 | 0        |
 
 <!--END_SECTION:my_blog-->
