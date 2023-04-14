@@ -61,6 +61,7 @@ ELPSYCONGROO.
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [spring-session的removeAttribute方法踩坑](https://github.com/ParadiseWitch/gitblog/issues/5) | 2023-04-14 | 2023-04-14 | 0 | 
 | [2023 OKR](https://github.com/ParadiseWitch/gitblog/issues/1) | 2023-01-12 | 2023-01-14 | 0 | 
 
 <!--END_SECTION:my_blog-->
