@@ -7,7 +7,7 @@ ELPSYCONGROO.
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 6 (周) | 0 | NO |
+| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 7 (周) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
@@ -61,7 +61,7 @@ ELPSYCONGROO.
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [spring-session的removeAttribute方法踩坑](https://github.com/ParadiseWitch/gitblog/issues/5) | 2023-04-14 | 2023-04-14 | 0 | 
+| [spring-session的removeAttribute方法踩坑](https://github.com/ParadiseWitch/gitblog/issues/5) | 2023-04-14 | 2023-04-18 | 0 | 
 | [2023 OKR](https://github.com/ParadiseWitch/gitblog/issues/1) | 2023-01-12 | 2023-01-14 | 0 | 
 
 <!--END_SECTION:my_blog-->
