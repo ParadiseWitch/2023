@@ -7,7 +7,7 @@ ELPSYCONGROO.
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 8 (周) | 0 | NO |
+| [周记](https://github.com/ParadiseWitch/2023/issues/2) | 9 (周) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
